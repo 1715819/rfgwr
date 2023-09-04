@@ -1,1 +1,1 @@
-ghcr.io/wy580477/musicn-container:latest
+FROM ghcr.io/wy580477/musicn-container:latest
